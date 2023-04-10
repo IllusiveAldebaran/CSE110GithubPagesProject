@@ -42,3 +42,10 @@ The laptops I've owned in backwards order are:
 - [ ] Add more about me
 - [ ] Do subsequent labs
 - [ ] Profit
+
+
+### Images
+
+![image](./screenshots/CSE110_Lab1_steps2.1-2.3.png)
+![image](./screenshots/CSE110_Lab1_steps2.3-2.6.png)
+![image](./screenshots/CSE110_Lab1_steps2.7.png)
